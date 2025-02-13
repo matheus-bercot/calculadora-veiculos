@@ -1,0 +1,101 @@
+[
+    {
+        "Modelo": "Dolphin Mini",
+        "Gasto por Km": 1.991531142857143,
+        "Gastos Detalhados": {
+            "Energia": 0.11345714285714287,
+            "Manutenção": 0.14950000000000002,
+            "Depreciação": 0.999592,
+            "Seguro": 0.29918199999999995,
+            "Impostos": 0.4298
+        }
+    },
+    {
+        "Modelo": "Dolphin",
+        "Gasto por Km": 2.4632063986254296,
+        "Gastos Detalhados": {
+            "Energia": 0.12899106529209622,
+            "Manutenção": 0.15833333333333333,
+            "Depreciação": 1.300772,
+            "Seguro": 0.31581,
+            "Impostos": 0.5593
+        }
+    },
+    {
+        "Modelo": "Ora 03",
+        "Gasto por Km": 2.5255615172413792,
+        "Gastos Detalhados": {
+            "Energia": 0.17296551724137935,
+            "Manutenção": 0.24465,
+            "Depreciação": 1.221,
+            "Seguro": 0.361946,
+            "Impostos": 0.525
+        }
+    },
+    {
+        "Modelo": "Yuan",
+        "Gasto por Km": 3.5592451428571423,
+        "Gastos Detalhados": {
+            "Energia": 0.17197714285714286,
+            "Manutenção": 0.19725399999999998,
+            "Depreciação": 1.919412,
+            "Seguro": 0.44530200000000003,
+            "Impostos": 0.8253
+        }
+    },
+    {
+        "Modelo": "Seal",
+        "Gasto por Km": 4.477692731182795,
+        "Gastos Detalhados": {
+            "Energia": 0.18553806451612906,
+            "Manutenção": 0.21666666666666667,
+            "Depreciação": 2.440372,
+            "Seguro": 0.585816,
+            "Impostos": 1.0493
+        }
+    },
+    {
+        "Modelo": "e-Transit",
+        "Gasto por Km": 7.314479222797928,
+        "Gastos Detalhados": {
+            "Energia": 0.2945492227979275,
+            "Manutenção": 0.21705000000000002,
+            "Depreciação": 4.41188,
+            "Seguro": 0.494,
+            "Impostos": 1.897
+        }
+    },
+    {
+        "Modelo": "EX30",
+        "Gasto por Km": 3.9623030118343197,
+        "Gastos Detalhados": {
+            "Energia": 0.12614201183431953,
+            "Manutenção": 0.35954300000000006,
+            "Depreciação": 1.871793,
+            "Seguro": 0.8,
+            "Impostos": 0.804825
+        }
+    },
+    {
+        "Modelo": "C40",
+        "Gasto por Km": 6.915165571428571,
+        "Gastos Detalhados": {
+            "Energia": 0.14982857142857145,
+            "Manutenção": 0.406639,
+            "Depreciação": 2.986973,
+            "Seguro": 2.0874,
+            "Impostos": 1.284325
+        }
+    },
+    {
+        "Modelo": "Creta",
+        "Gasto por Km": 2.4361832361344535,
+        "Gastos Detalhados": {
+            "Energia": 0.6008403361344538,
+            "Manutenção": 0.23366399999999998,
+            "Depreciação": 0.8858138999999999,
+            "Seguro": 0.2,
+            "Impostos": 0.515865
+        }
+    }
+]
